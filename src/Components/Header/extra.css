@@ -1,0 +1,33 @@
+
+main{
+    background-image: url(./bannerbackground.png);
+    
+    background-repeat: no-repeat;
+    
+    
+   
+   
+    
+    
+}
+.header h1{
+  text-align: center;
+  padding-top: 250px ;
+  padding-bottom: 0px;
+  font-size: 55px;
+}
+.input-group{
+    width: 90%;
+    max-width: 500px ;
+    border-radius: 30px;
+    margin: auto;
+    padding-bottom: 300px;
+}
+.food h1{
+  text-align: center;
+  color: royalblue;
+  
+}
+.food{
+  background-color: cornsilk;
+}

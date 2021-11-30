@@ -1,0 +1,11 @@
+.data2{
+    text-align: center;
+    border-style: none;
+    margin: 100px ;
+    background-color: cornsilk;
+}
+.data2:hover{
+    box-shadow:10px 10px 15px lightslategray;
+    background-color: rosybrown;
+    border-radius: 20px;
+}

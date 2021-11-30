@@ -1,0 +1,15 @@
+.menudata{
+    margin-left: 70px ;
+    
+    
+}
+.menudata button:hover{
+  background-color: red;
+  box-shadow:2px 2px 5px lightslategrey ;
+}
+.menuimg img{
+    width: 50vw ;
+}
+.menuimg{
+    width:400px;
+}

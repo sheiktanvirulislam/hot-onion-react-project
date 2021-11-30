@@ -1,0 +1,22 @@
+.footer{
+    background-color: 		#231F20;
+    color: #fff;
+}
+.logo{
+    width: 60% ;
+    margin-top: 100px; 
+}
+.list1{
+    color: white;
+    margin-top:100px ;
+
+}
+.list1 li{
+    text-decoration: none;
+    list-style: none;
+    padding: 5px;
+}
+.footer p{
+    margin-top: 40px ;
+    margin-left: 20px ;
+}
